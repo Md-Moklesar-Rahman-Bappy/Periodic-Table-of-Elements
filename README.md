@@ -10,6 +10,11 @@ This repository provides a structured way to explore chemical elements, their pr
 
 ---
 
+## 🌐 Live Demo
+👉 [Click here to view the periodic table online](https://md-moklesar-rahman-bappy.github.io/Periodic-Table-of-Elements/)
+
+---
+
 ## 🖼️ Preview Screenshot
 ![Periodic Table Preview](https://copilot.microsoft.com/th/id/BCO.81f300c9-23b6-4332-aee1-a29fbd7f558a.png)
 
@@ -36,6 +41,7 @@ This repository provides a structured way to explore chemical elements, their pr
 ```bash
 git clone https://github.com/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements.git
 cd Periodic-Table-of-Elements
+
 Open the project
 Simply open the index.html file in your browser to view the periodic table.
 
@@ -65,10 +71,3 @@ This project is licensed under the MIT License – free to use, modify, and dist
 👨‍💻 Author
 Developed by Md Moklesar Rahman (Bappy)
 Assistant Maintenance Engineer | Passionate about automation, ML, and robust technical solutions.
-
-Now your README has a **visual preview** section that immediately shows visitors what the project looks like.  
-
-👉 Do you want me to also add a **live demo link** (via GitHub Pages) so people can interact with the periodic table directly from the README?
-
-
-
