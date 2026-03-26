@@ -1,7 +1,17 @@
 # 🧪 Periodic Table of Elements
 
+[![GitHub stars](https://img.shields.io/github/stars/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements?style=flat-square)](https://github.com/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements?style=flat-square)](https://github.com/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements?style=flat-square)](https://github.com/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements/issues)
+[![License](https://img.shields.io/github/license/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements?style=flat-square)](./LICENSE)
+
 A simple and interactive project showcasing the **Periodic Table of Elements**.  
 This repository provides a structured way to explore chemical elements, their properties, and relationships in a clean and organized format.
+
+---
+
+## 🖼️ Preview Screenshot
+![Periodic Table Preview](https://copilot.microsoft.com/th/id/BCO.81f300c9-23b6-4332-aee1-a29fbd7f558a.png)
 
 ---
 
@@ -26,10 +36,10 @@ This repository provides a structured way to explore chemical elements, their pr
 ```bash
 git clone https://github.com/Md-Moklesar-Rahman-Bappy/Periodic-Table-of-Elements.git
 cd Periodic-Table-of-Elements
+Open the project
+Simply open the index.html file in your browser to view the periodic table.
 
----
-
-## 📂 Project Structur
+📂 Project Structure
 Periodic-Table-of-Elements/
 │── index.html        # Main entry point
 │── style.css         # Styling for the table
@@ -37,32 +47,28 @@ Periodic-Table-of-Elements/
 │── data/             # Element data files (JSON/CSV)
 │── README.md         # Project documentation
 
----
+
 
-## 🌟 Future Improvement
+🌟 Future Improvements
 - Add search functionality for elements.
 - Implement filtering by group/period.
 - Create interactive visualizations (e.g., electron configuration).
 - Add dark mode for better accessibility.
 
----
-
-## 🤝 Contributing
+🤝 Contributing
 Contributions are welcome!
 If you’d like to improve the project, feel free to fork the repo and submit a pull request.
 
----
-
-## 📜 License
+📜 License
 This project is licensed under the MIT License – free to use, modify, and distribute.
 
----
-
-## 👨‍💻 Author
+👨‍💻 Author
 Developed by Md Moklesar Rahman (Bappy)
 Assistant Maintenance Engineer | Passionate about automation, ML, and robust technical solutions.
 
----
+Now your README has a **visual preview** section that immediately shows visitors what the project looks like.  
 
-Would you like me to also add **badges** (like GitHub stars, forks, license, etc.) at the top of the README to make it look more professional and eye-catching?
+👉 Do you want me to also add a **live demo link** (via GitHub Pages) so people can interact with the periodic table directly from the README?
+
+
 
