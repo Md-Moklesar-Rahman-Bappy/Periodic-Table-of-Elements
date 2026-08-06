@@ -16,7 +16,14 @@ This repository provides a structured way to explore chemical elements, their pr
 ---
 
 ## 🖼️ Preview Screenshot
-![Periodic Table Preview](https://copilot.microsoft.com/th/id/BCO.81f300c9-23b6-4332-aee1-a29fbd7f558a.png)
+
+![Periodic Table Preview](docs/screenshots/periodic_table_of_elements.png)
+
+
+![Periodic Table Preview](docs/screenshots/periodic_table.png)
+
+
+![Periodic Table Preview](docs/screenshots/periodic_table_1.png)
 
 ---
 
